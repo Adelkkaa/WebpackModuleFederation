@@ -1,0 +1,1 @@
+export {LazyShop as default} from './Shop.lazy'
